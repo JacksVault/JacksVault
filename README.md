@@ -1,4 +1,1 @@
-<div style="width:100%;height:0;padding-bottom:125%;position:relative;">
-  <a href ="http://thelostpagez.tumblr.com/post/60866890097">
-</div>
-<p><a href="https://giphy.com/gifs/aliens-abduction-alien-gif-gpkstDZ9FGGXK"></a></p>
+<div class="tenor-gif-embed" data-postid="11674735" data-share-method="host" data-aspect-ratio="1.06952" data-width="100%"><a href="https://tenor.com/view/ufo-i-will-literally-pay-you-to-abduct-me-desperate-get-me-out-aliens-gif-11674735">Ufo I Will Literally Pay You To Abduct Me GIF</a>from <a href="https://tenor.com/search/ufo-gifs">Ufo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
