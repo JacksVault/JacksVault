@@ -1,7 +1,7 @@
 # Welcome to My Alien-loving World!
 <link>
 <div style="display: flex;">
-    <img src="public/ufo.gif" style="flex: 1; width: 50%;" alt="Alien">
+    <img src="public/ufo.gif" style="flex: 1; width: 80%;" alt="Alien">
     <!--img src="public/giphy.gif" style="flex: 1; width: 50%;" alt="Alien">-->
 </div>
 
